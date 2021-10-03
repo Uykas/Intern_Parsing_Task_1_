@@ -8,4 +8,4 @@
 ### product_name	- Названик продукта
 ### product_price - Цена продукта
 ### product_city - Название города
-### Работа была сделано в Jupyter Notebook
+### Работа была сделано в Jupyter Notebook с использованием SQLiteStudio
